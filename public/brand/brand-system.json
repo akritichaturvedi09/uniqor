@@ -1,0 +1,21 @@
+{
+  "brand": "Uniqor",
+  "logos": {
+    "primary": "/brand/Logo_Dark_BG.png",
+    "monogram": "/brand/Monogram_Dark_BG.png",
+    "wordmark": "/brand/Typo_Dark_BG.png"
+  },
+  "palette": {
+    "deepBlackBlue": "#040B14",
+    "blackBlue": "#081420",
+    "graphitePanel": "#0D1F2E",
+    "cyanIntelligenceGlow": "#21D4FD",
+    "tealDataStreams": "#28E0B9",
+    "mintGovernanceHighlight": "#A7F3D0",
+    "warmAmberIntelligenceSignal": "#F6C85F",
+    "subtleRedRiskIndicator": "#FF6B5F",
+    "nearWhiteText": "#F5FAFF",
+    "institutionalSlateText": "#9FB5C8"
+  },
+  "usage": "Do not introduce external logos or colors. Alpha variations of this palette are allowed for glow, panels, lines, and overlays."
+}
